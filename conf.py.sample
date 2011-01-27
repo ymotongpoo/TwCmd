@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+
+consumer_key = "xxxxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token = None
+access_secret = None
+
+# if you get access token and access token secret
+# you can assign them here
+#access_token = "123456-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+#access_secret = "zzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+
